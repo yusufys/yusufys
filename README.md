@@ -2,11 +2,21 @@
 
 # Yusuf Yurtsever
 
-**Full-stack developer**
+**Full-stack developer · Video gamer**
 
-PHP / Laravel · MySQL · JavaScript · React
+Code. Queue. One more episode.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 [Explore my repositories](https://github.com/yusufys?tab=repositories) · [Clear Technical English](https://github.com/yusufys/clear-technical-english)
+
+[![Followers](https://img.shields.io/github/followers/yusufys?style=flat-square&label=Followers&color=58a6ff)](https://github.com/yusufys?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/yusufys?style=flat-square&label=GitHub%20stars&color=f2cc60)](https://github.com/yusufys?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=yusufys&style=flat-square&color=7057ff&label=Profile+views)
 
 </div>
 
@@ -16,9 +26,14 @@ PHP / Laravel · MySQL · JavaScript · React
 
 ### [Clear Technical English](https://github.com/yusufys/clear-technical-english)
 
+[![Skill stars](https://img.shields.io/github/stars/yusufys/clear-technical-english?style=flat-square&label=Star%20the%20skill&color=f2cc60)](https://github.com/yusufys/clear-technical-english/stargazers)
+
 A Codex skill for clear, readable technical communication in **CEFR B1–B2 English**, while keeping technical terminology precise.
 
 Use it during brainstorming, implementation, progress updates, and reports of what was built or changed.
+
+<details>
+<summary><b>Install and try the skill</b></summary>
 
 #### Install
 
@@ -40,6 +55,20 @@ Use the clear-technical-english skill.
 ```
 
 Codex can also select the skill automatically based on its description.
+
+</details>
+
+## Away from the keyboard
+
+🎮 Video games · 📺 The Office · Silicon Valley · Breaking Bad · The Rookie
+
+<div align="center">
+
+<a href="https://giphy.com/gifs/theoffice-the-office-michael-scott-l0K4k6XDVqdQY6ZB2"><img src="https://media.giphy.com/media/l0K4k6XDVqdQY6ZB2/giphy.gif" width="320" alt="Michael Scott reaction GIF from The Office" /></a>
+
+<sub>A little Dunder Mifflin energy between commits.</sub>
+
+</div>
 
 ---
 
