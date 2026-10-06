@@ -2,7 +2,7 @@
 
 # Yusuf Yurtsever
 
-**Full-stack developer · Video gamer**
+**Senior Software / Product Engineer · Video gamer**
 
 Unix enthusiast. Open-source fan. Gamer.
 
