@@ -4,13 +4,23 @@
 
 **Full-stack developer · Video gamer**
 
-Code. Queue. One more episode.
+Unix enthusiast. Open-source fan. Gamer.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-1647CB?style=flat-square)
+
+![Unix](https://img.shields.io/badge/Unix-30363D?style=flat-square)
+![CachyOS](https://img.shields.io/badge/CachyOS-00BFA5?style=flat-square)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Open source](https://img.shields.io/badge/Open_source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 [Explore my repositories](https://github.com/yusufys?tab=repositories) · [Clear Technical English](https://github.com/yusufys/clear-technical-english)
 
