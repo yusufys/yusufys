@@ -22,7 +22,7 @@ Code. Queue. One more episode.
 
 ---
 
-## Featured project
+## Open source
 
 ### [Clear Technical English](https://github.com/yusufys/clear-technical-english)
 
@@ -58,17 +58,6 @@ Codex can also select the skill automatically based on its description.
 
 </details>
 
-## Away from the keyboard
-
-🎮 Video games · 📺 The Office · Silicon Valley · Breaking Bad · The Rookie
-
-<div align="center">
-
-<a href="https://giphy.com/gifs/theoffice-the-office-michael-scott-l0K4k6XDVqdQY6ZB2"><img src="https://media.giphy.com/media/l0K4k6XDVqdQY6ZB2/giphy.gif" width="320" alt="Michael Scott reaction GIF from The Office" /></a>
-
-<sub>A little Dunder Mifflin energy between commits.</sub>
-
-</div>
 
 ---
 
